@@ -6,7 +6,7 @@ header:
 
 # Welcome​
 
-<img src="/assets/images/Grad photo.JPEG"></img>
+<img src="https://github.com/Taylorthecreator06/Taylor-Williams-Profile/blob/master/assets/images/Grad photo.JPEG?raw=true" width="50%" hspace="20" align="right">
 
 *This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
