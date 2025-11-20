@@ -6,7 +6,7 @@ header:
 
 # Welcome​
 
-<img src="/assets/images/Grad photo.JPEG">
+<img src="/assets/images/Grad photo.JPEG"></img>
 
 *This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
