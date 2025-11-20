@@ -2,7 +2,7 @@
 
 Welcome to the guide for setting up your professional economics job market website. This template was adapted for NIU Graduate Students by [AdamBougher](https://github.com/adambougher) and [drklis](https://github.com/drklis/) based on the design used by [pwills.com](http://www.pwills.com), which is hosted on GitHub Pages and utilizes the elegant [Minimal Mistakes template](https://github.com/mmistakes/minimal-mistakes).
 
-The site is built using Jekyll, a powerful static site generator, providing a clean and professional layout for showcasing your academic profile. This setup allows for easy customization while maintaining a polished appearance suitable for the economics job market. You may wish to complete the [Microsoft Learn tutorial](https://learn.microsoft.com/en-us/training/modules/create-host-web-sites-github-pages/) and associated [GitHub interactive exercise](https://github.com/skills/github-pages) in order to go over the basics prior to setting up your website with this template.
+The site is built using Jekyll, a powerful static site generator, providing a clean and professional layout for showcasing your academic profile. This setup allows for easy customization while maintaining a polished appearance suitable for the economics job market. You may wish to complete the [Microsoft Learn tutorial](https://learn.microsoft.com/en-us/training/modules/create-host-web-sites-github-pages/) and associated [GitHub interactive exercise](https://github.com/skills/github-pages) in order to go over the basics prior to setting up your website with this template. a
 
 ### Purpose of a Job Market Profile Website
 
