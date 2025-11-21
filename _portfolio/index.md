@@ -5,10 +5,10 @@ header:
 permalink: /portfolio/index.html
 ---
 
-*The following publications are fictional, and are only intended for this job market website demo.*
+*The following publications are fictional and are only intended for this job market website demo.*
 
 # Research
-<details><summary>Blog Title</summary>
+<details><summary>BP-01: Discovering Open Source</summary>
   Blog Contents</details>
 
 <details><summary>Blog Title</summary>
