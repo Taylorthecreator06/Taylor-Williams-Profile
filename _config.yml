@@ -7,7 +7,7 @@ url: "https://Taylorthecreator06.github.io"
 baseurl: "/Taylor-Williams-Profile"
 repository: "ECON-691/Jekyll-for-Job-Market"
 header:
-  image: /assets/images/cybersecurity_banner.jpg
+  image: "/assets/images/cybersecurity_banner.jpg"
 
 include:
   - _pages
