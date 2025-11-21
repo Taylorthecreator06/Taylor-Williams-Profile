@@ -8,11 +8,9 @@ header:
 
 <img src="https://github.com/Taylorthecreator06/Taylor-Williams-Profile/blob/master/assets/images/Grad photo.JPEG?raw=true" width="50%" hspace="20" align="right">
 
-*This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
+My name is Taylor Williams, and I am a sophomore majoring in Computer Science at Northern Illinois University.
 
-My name is Mission III, and I am the official Huskie mascot at Northern Illinois University.
-
-I am a Siberian Husky with striking blue eyes and beautiful black-and-white markings. My role includes boosting school spirit, entertaining crowds, and representing NIU at various events.
+I love all things tech! Some of my favorites are programming, Cybersecurity, and Game development! With my Computer Science degree, I plan to become a white-hat hacker. This means that I will hack into systems to determine if they are secure. 
 
 ### Background
 
