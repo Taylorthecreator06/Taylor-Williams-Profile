@@ -2,15 +2,15 @@
 main:
   - title: "Home"
     url: /
-  - title: "Curriculum Vitae"
+  - title: "Projects & Contributions"
     url: /assets/docs/Mission.pdf
-  - title: "Research"
+  - title: "Blog section"
     url: /portfolio/
   #- title: "Teaching"
     #url: /teaching/
-  - title: "Links"
+  - title: "Resume & skills"
     url: /links/
-  - title: "Contact"
+  - title: "Contacts & Socials"
     url: /contact/
   # - title: "Blog"
   #   url: /blog/
