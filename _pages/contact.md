@@ -6,15 +6,16 @@ classes: wide
 permalink: /contact/
 ---
 
-*This page is fictional and created as part of a job market website demo in Jekyll.*
-
-### Campus Office
+### Computer Science Building
 Northern Illinois University  
-Out on the Field  
+100 Normal Rd
 DeKalb, IL 60115-2825  
 
-###### Office Hours:  
-by appointment
+### Contacts 
+Email: taylornwilliams77@gmail.com
+Phone #: 331-216-9058
 
-### Email  
-![image of email]({{site.baseurl}}/assets/images/email.jpg)
+### Socials
+- [GitHub](https://github.com/Taylorthecreator06)
+- [LinkedIn](https://www.linkedin.com/in/taylor-williams-6bb868379/)
+
