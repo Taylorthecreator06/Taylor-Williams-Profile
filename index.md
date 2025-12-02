@@ -10,7 +10,7 @@ header:
 
 My name is Taylor Williams, and I am a sophomore majoring in Computer Science at Northern Illinois University.
 
-I love all things tech! Some of my favorites are programming, Cybersecurity, and Game development! With my Computer Science degree, I plan to become a white-hat hacker. This means that I will hack into systems to determine if they are secure. 
+I love all things tech! Some of my favorites are programming, Cybersecurity, and Game development!
 
 ### Background
 
