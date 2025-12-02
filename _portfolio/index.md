@@ -39,7 +39,8 @@ __Apple__
 This matters because so much software we use daily is open source. This allows other developers to make changes and possibly enhance the code, or using it to develop their own projects. This invites even more open source projects to be accessible!
 </details>
 
-<details><summary> BP-02: Github & Markdown</summary>
+<details markdown="1">
+  <summary> BP-02: Github & Markdown</summary>
  ## Prompt
 > “What I learned about Markdown and Git, and how they help me contribute to open source and improve professionally. Have you used them before? What surprised you about Markdown or Git?”
 
@@ -56,7 +57,8 @@ No. I've done command line programming in the past, but I've never used Git or M
 What surprised me about Markdown was how Simple but helpful it is. It's just clean formatting, but it has helped me become better at describing what's actually happening in a structure. Not much surprised me about Git because I've done UNIX/Linux in the past, so a lot of it was just a recap of what I knew. 
  </details>
 
-<details><summary>BP-03: Explore Open Source Projects </summary>
+<details markdown="1">
+  <summary>BP-03: Explore Open Source Projects</summary>
   
 ## Prompt
 > Blog Prompt: “How I chose a repository to explore and what I found interesting about its structure, community, and contribution process.”
@@ -71,7 +73,8 @@ I'm very interested in all things cybersecurity. However, I was particularly dra
 I like how diverse and knowledgeable the community is. It consists of beginners, experienced users, and the global, remote Pi-hole development team who answer questions and maintain the open-source software. The community actively contributes to the project through discussions, issue reports, and new feature suggestions. It creates an environment where everyone feels comfortable contributing and collaborating to create a safer and more enjoyable online experience.  
 </details>
 
-<details><summary>BP-04: "Reveal.js: My first deep dive into an Open Source Project" </summary>
+<details markdown="1">
+  <summary>BP-04: "Reveal.js: My first deep dive into an Open Source Project" </summary>
  ## Prompt: 
 > After exploring Reveal.js, describe how it’s structured, what it’s for, and what you found interesting about the way the project is documented and maintained. Could you imagine yourself contributing to this? Why or why not?
 
@@ -87,7 +90,8 @@ I am a very visual person, so I love that I can create beautiful interactive sli
 ## Would you be comfortable trying to contribute? Why or why not?
 No. I don't feel comfortable contributing just yet. I am improving with GitHub each week and familiarizing myself with the workflow, but I still feel that I'm not skilled enough to effectively contribute to large repositories such as [reveal.js.](https://revealjs.com/). I would need more practice because I haven't used GitHub that much before now, so my main goal is to improve so that I can understand the flow and navigate the platform. </details>
 
-<details><summary>BP-05: Explore Open Source Licenses</summary>
+<details markdown="1">
+  <summary>BP-05: Explore Open Source Licenses</summary>
  Prompt: “Ownership, Access, and Innovation: What I Learned About Licensing.”
 
 Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted).
@@ -99,7 +103,8 @@ How did the Tetris movie shape your understanding of software ownership and dist
 What surprised or intrigued you about NIU’s approach to IP, patents, and tech transfer?
 > The part that intrigued me the most about NIU's approach was the different Protections. Particularly, the Patent and the Trade Secrets. With patents, the value must justify the cost, and patents have a limited life. Copyrights should be used when secrecy is possible, and they last 90 years + the author's life! </details>
 
-<details><summary>BP-06: Global Hack Week Experience</summary>
+<details markdown="1">
+  <summary>BP-06: Global Hack Week Experience</summary>
  Prompt: “Ownership, Access, and Innovation: What I Learned About Licensing.”
 
 Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted).
@@ -111,14 +116,14 @@ How did the Tetris movie shape your understanding of software ownership and dist
 What surprised or intrigued you about NIU’s approach to IP, patents, and tech transfer?
 > The part that intrigued me the most about NIU's approach was the different Protections. Particularly, the Patent and the Trade Secrets. With patents, the value must justify the cost, and patents have a limited life. Copyrights should be used when secrecy is possible, and they last 90 years + the author's life!</details>
 
-<details><summary>BP-07: Explore Non-Code Contributions</summary>
+<details markdown="1">
+  <summary>BP-07: Explore Non-Code Contributions</summary>
  Prompt:
 > What counts as a contribution in open source? 
   My thoughts on the value of code and non-code contributions. 
   How diagrams help clarify workflows. 
   How communication and collaboration shape successful non-code contributions. 
   What non-code contribution opportunities did you find?
-
 
 What counts as a contribution in open source?
 >  To me, a contribution includes anything that enhances or supports a project. These contributions can be code, bug fixes, and they also extend beyond code to include documentation and design!
