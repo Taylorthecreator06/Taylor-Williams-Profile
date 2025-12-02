@@ -5,11 +5,11 @@ main:
   - title: "Projects & Contributions"
     url: /assets/docs/Mission.pdf
   - title: "Blog section"
-    url: /assets/docs/Resume (2025).pdf
+    url: /portfolio/
   #- title: "Teaching"
     #url: /teaching/
   - title: "Resume & skills"
-    url: /links/
+    url: /assets/docs/Resume.pdf
   - title: "Contacts & Socials"
     url: /contact/
   # - title: "Blog"
