@@ -6,15 +6,12 @@ classes: wide
 permalink: /links/
 ---
 
-# Northern Illinois University Links
-- [NIU Department of Economics](https://www.niu.edu/clas/econ/)
-- [NIU Institute for the Study of the Environment, Sustainability & Energy](https://www.niu.edu/clas/ese/)
-- [Blackboard Course Management System](https://webcourses.niu.edu/)
-- [NIU University Writing Center](https://www.niu.edu/academic-support/get-help/writing-center/index.shtml)
-- [NIU Office of the Ombudsperson](https://www.niu.edu/ombuds/index.shtml)
-- [71 North Pulse (Innovation Studio Newsletter)](https://71north.beehiiv.com/)
+# Social Links
+- [GitHub](https://github.com/Taylorthecreator06)
+- [LinkedIn](https://www.linkedin.com/in/taylor-williams-6bb868379/)
+- Email: taylornwilliams77@gmail.com
+- Phone #: 331=216-9058
 
 # Other Links of Interest
-- [NIU Football](https://niuhuskies.com/sports/football)
-- [NIU Men's Basketball](https://niuhuskies.com/sports/mens-basketball)
-- [NIU Women's Basketball](https://niuhuskies.com/sports/womens-basketball)
+- [NIU Department of Computer Science](https://www.cs.niu.edu/)
+- [Huskie Hackers](https://huskiehackers.github.io/)
