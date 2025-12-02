@@ -88,7 +88,8 @@ reveal.js is an open-source HTML presentation framework. It enables anyone with 
 I am a very visual person, so I love that I can create beautiful interactive slides with open source! And at the same time, I'm coding in `HTML`! It showcases what open source can truly provide to different communities!
 
 ## Would you be comfortable trying to contribute? Why or why not?
-No. I don't feel comfortable contributing just yet. I am improving with GitHub each week and familiarizing myself with the workflow, but I still feel that I'm not skilled enough to effectively contribute to large repositories such as [reveal.js.](https://revealjs.com/). I would need more practice because I haven't used GitHub that much before now, so my main goal is to improve so that I can understand the flow and navigate the platform. </details>
+No. I don't feel comfortable contributing just yet. I am improving with GitHub each week and familiarizing myself with the workflow, but I still feel that I'm not skilled enough to effectively contribute to large repositories such as [reveal.js.](https://revealjs.com/). I would need more practice because I haven't used GitHub that much before now, so my main goal is to improve so that I can understand the flow and navigate the platform. 
+</details>
 
 <details markdown="1">
   <summary>BP-05: Explore Open Source Licenses</summary>
@@ -101,7 +102,8 @@ How did the Tetris movie shape your understanding of software ownership and dist
 > Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted). Before this movie, I didn't know that licensing for video games can be "fragmented" across platforms. In the movie Tetris, the main character Henk is battling for Tetris's rights to arcade games, consoles, and handheld games. It was interesting to see the progression of the rights throughout the movie. 
 
 What surprised or intrigued you about NIU’s approach to IP, patents, and tech transfer?
-> The part that intrigued me the most about NIU's approach was the different Protections. Particularly, the Patent and the Trade Secrets. With patents, the value must justify the cost, and patents have a limited life. Copyrights should be used when secrecy is possible, and they last 90 years + the author's life! </details>
+> The part that intrigued me the most about NIU's approach was the different Protections. Particularly, the Patent and the Trade Secrets. With patents, the value must justify the cost, and patents have a limited life. Copyrights should be used when secrecy is possible, and they last 90 years + the author's life!
+</details>
 
 <details markdown="1">
   <summary>BP-06: Global Hack Week Experience</summary>
@@ -114,7 +116,8 @@ How did the Tetris movie shape your understanding of software ownership and dist
 > Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted). Before this movie, I didn't know that licensing for video games can be "fragmented" across platforms. In the movie Tetris, the main character Henk is battling for Tetris's rights to arcade games, consoles, and handheld games. It was interesting to see the progression of the rights throughout the movie. 
 
 What surprised or intrigued you about NIU’s approach to IP, patents, and tech transfer?
-> The part that intrigued me the most about NIU's approach was the different Protections. Particularly, the Patent and the Trade Secrets. With patents, the value must justify the cost, and patents have a limited life. Copyrights should be used when secrecy is possible, and they last 90 years + the author's life!</details>
+> The part that intrigued me the most about NIU's approach was the different Protections. Particularly, the Patent and the Trade Secrets. With patents, the value must justify the cost, and patents have a limited life. Copyrights should be used when secrecy is possible, and they last 90 years + the author's life!
+</details>
 
 <details markdown="1">
   <summary>BP-07: Explore Non-Code Contributions</summary>
@@ -135,4 +138,5 @@ How do diagrams help clarify workflows?
 > Diagrams clarify workflows because they provide a visual, step-by-step process that enhances learning and understanding for new users.
 
 How do communication and collaboration shape successful non-code contributions?
-> Effective communication and collaboration are essential for non-code contributions. Clear communication ensures that everyone understands the project's goals and objectives. Additionally, it helps writers produce precise documentation for the project. Collaboration brings together individuals from diverse backgrounds, fostering creativity and generating innovative ideas for projects </details>
+> Effective communication and collaboration are essential for non-code contributions. Clear communication ensures that everyone understands the project's goals and objectives. Additionally, it helps writers produce precise documentation for the project. Collaboration brings together individuals from diverse backgrounds, fostering creativity and generating innovative ideas for projects
+</details>
