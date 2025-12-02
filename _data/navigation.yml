@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Projects & Contributions"
-    url: /portfolio/
+    url: /assets/docs/Projects & Contributions.pdf
   - title: "Blogs"
     url: /portfolio/
   #- title: "Teaching"
