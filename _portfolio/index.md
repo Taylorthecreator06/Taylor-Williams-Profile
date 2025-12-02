@@ -6,7 +6,8 @@ permalink: /portfolio/index.html
 ---
 
 # Research
-<details><summary>BP-01: Discovering Open Source</summary>
+<details markdown="1">
+  <summary>BP-01: Discovering Open Source</summary>
   
 ## Prompt
 > “What is open source? What surprised me? Which well-known companies and projects use open source, and why does that matter?”
