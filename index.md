@@ -4,7 +4,7 @@ header:
   image: /assets/images/niubanner.png
 ---
 
-# Welcome​
+# Introduction
 
 <img src="https://github.com/Taylorthecreator06/Taylor-Williams-Profile/blob/master/assets/images/Grad photo.JPEG?raw=true" width="50%" hspace="20" align="right">
 
