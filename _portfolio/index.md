@@ -41,7 +41,8 @@ This matters because so much software we use daily is open source. This allows o
 
 <details markdown="1">
   <summary> BP-02: Github & Markdown</summary>
- ## Prompt
+  
+## Prompt
 > “What I learned about Markdown and Git, and how they help me contribute to open source and improve professionally. Have you used them before? What surprised you about Markdown or Git?”
 
 ## What I learned about Markdown and Git
