@@ -14,8 +14,6 @@ I love all things tech! Some of my favorites are programming, Cybersecurity, and
 
 ### Background
 
-I was born in British Columbia, Canada, and joined the NIU family when I was three months old. I come from a line of champion dogs known for their great temperaments and love for children. My breeder gave me special training to prepare me for my important role as a university mascot.
+I am a sophomore at Northern Illinois University, majoring in Computer Science. With a strong interest in cybersecurity and database protection. Outside of college, I enjoy playing guitar, playing video games, listening to music, and creating art. My goal is to pursue a career in cybersecurity to ensure the security of society's digital privacy. 
 
-Before coming to NIU, I received early socialization training to help me adapt to various situations. This included exposure to hats, coats, loud noises, and other novel experiences. I'm known for my bravery and eagerness to try new things, which are essential qualities for a mascot who often faces unexpected situations.
-
-When I'm not representing NIU at events, I enjoy playing with my toys, going for walks around campus, and meeting new people. I'm looking forward to fully stepping into my role and becoming an integral part of the Huskie Nation!
+Before coming to NIU, I developed a strong curiosity for tech. In high school, I developed a strong curiosity for technology. I explored some programming classes in Python, and they really piqued my interest. As time went on, I began to learn more languages, such as C++, Java, and Bash.
